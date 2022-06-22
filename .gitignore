@@ -1,7 +1,0 @@
-/node_modules
-/#src
-gulpfile.js
-package.json
-package-lock.json
-.gitignore
-version.json
